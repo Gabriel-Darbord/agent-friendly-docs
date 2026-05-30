@@ -1,6 +1,6 @@
-# Agent Guide For <Project>
+# Agent Guide For `<Project>`
 
-<One short paragraph: project purpose and ownership boundary.>
+`<One short paragraph: project purpose and ownership boundary.>`
 
 ## Read First
 
@@ -11,8 +11,8 @@
 
 ## Context Loading
 
-- Before <task category>: read `<path/to/module.md>`.
-- Before <task category>: read `<path/to/module.md>`.
+- Before `<task category>`: read `<path/to/module.md>`.
+- Before `<task category>`: read `<path/to/module.md>`.
 - Before code review: read `<path/to/code-review.md>`.
 
 ## Project Facts
@@ -33,7 +33,7 @@
 
 ## Safety And Publication
 
-- <Do-not rules and approval requirements.>
+- `<Do-not rules and approval requirements.>`
 
 ## Local Overrides
 
