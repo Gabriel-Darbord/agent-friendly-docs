@@ -36,7 +36,3 @@ task-specific details to modules, and verify the documented commands and paths.
 - `agent-documentation-manual.md`: standalone manual for agents.
 - `templates/AGENTS.md`: compact root entrypoint template.
 - `templates/task-module.md`: task-specific module template.
-
-## License
-
-No license has been selected yet.
